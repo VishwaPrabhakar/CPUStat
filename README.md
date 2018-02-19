@@ -21,3 +21,11 @@ Here are instruction to use the scripts
 	4-use this command to run the script
 		cpustat.bat  (press enter)
 
+This script uses bash shell and it calles some prefined fucntion in the shell and use them as argument fot its own function to get the desired result.
+There is an extra feature in the script it fetch all the system info data and store that in text file so you can share it via email or other.
+
+In respect to the Windows .bat file
+this script use the internal cmd list function of the Disk Operating System DOS of the windows operating system to get the desired result.
+This script migh look simple but when you will run it you will realise its not this script basically echos the output of the several command and arguments described in it but in combine shows us the overall status of the computer.
+
+The End thank for Reading
